@@ -1,0 +1,13 @@
+b01b97a converted the report file to pdf
+ab5db68 updated files and documented them
+984a372  added the Oject Orientated programming design file
+6c44d90 Added the delete method and updated the files to implement the method
+cba3424 created and implmented  SearchQueries.text file
+3d70569 created and implemented the placeExperiment file for search queries
+5195459 created and implemented a makefile
+c77f62e created and implemented the PlaceSearchBST java file
+9c354d3 created the placesearcharray java file and imported the csv and textfiles
+a332899 implemented different BSTNode file to make code modular and modified other java files for best OOP
+55584d7 creating and implementing the placenamearray java file
+9e259ca created and implemented the placeentry java file
+e3b29c8 Adding the readme file
